@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachary
-- 👀 I’m interested in Python, Blender, JS, Project Euler, Arduino and more
-- 🌱 I’m currently learning Blender sculpting and JS
+- 👀 I’m interested in Python, Houdini, Unity, Robotics
+- 🌱 I’m currently working on a snowboard game with some friends
 - 📫 How to reach me: [github.untreated159@passinbox.com]
 - 😎 Youtube: [www.youtube.com/@\_feelinghappy\_]
 
