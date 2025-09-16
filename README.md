@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Zachary
-- 👀 I’m interested in Python, Houdini, Unity, Robotics
+- 👀 I’m interested in CPP, Python, Houdini, Blender, Unity, Robotics
 - 🌱 I’m currently working on a snowboard game with some friends
-- 📫 How to reach me: [github.untreated159@passinbox.com]
+- 🌐 Website: [www.zacharyleong.com]
+- 📫 How to reach me: [zdragonite21@gmail.com]
 - 😎 Youtube: [www.youtube.com/@\_feelinghappy\_]
 
 <!---
