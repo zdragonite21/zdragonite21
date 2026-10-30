@@ -1,5 +1,5 @@
 - hi, I’m Zachary
-- i’m interested in Rust, C++, Python, WebGPU, Vulkan, Houdini, Unity, Blender
+- i’m interested in Rust, C++, Python, Vulkan, WebGPU, CUDA, Houdini, Unity, Blender
 - i’m currently working on an epic water simulation
 - website: [www.zacharyleong.com]
 - how to reach me: [github@zacharyleong.com]
